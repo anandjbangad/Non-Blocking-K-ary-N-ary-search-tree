@@ -1,5 +1,5 @@
-This is an implementation of a Concurrent K-Ary leaf oriented Search Tree. In this implementation, we rely on Java's Garbage Collector to recycle the nodes
-that are removed from the tree as part of Insertio/Deletion process.
+This is an implementation of a Concurrent K-Ary leaf oriented Search Tree. This implementation, we rely on Java's Garbage Collector to recycle the nodes
+that are removed from the tree as part of Insertion/Deletion process.
 
 To run the implementation you need to run the "TestKarySTree" class which takes in the following 5 parameters(all are optional in which case it runs with
 default values)
